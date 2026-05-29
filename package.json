@@ -1,5 +1,9 @@
 {
-  "name": "smart-ai-router",
-  "version": "1.0.0",
-  "type": "module"
+  "name": "vie-ai-router",
+  "version": "3.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  }
 }
